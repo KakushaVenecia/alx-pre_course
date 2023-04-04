@@ -1,0 +1,1 @@
+git clone as I destroyed my server. It would have been git fetch origin.master , then git merge local if I had a local repository
